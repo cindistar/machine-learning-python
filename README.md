@@ -1,5 +1,5 @@
 # Machine Learning 
 
-ML Projects using python
+ML projects using Python
 
 ![](robot.gif)
